@@ -15,7 +15,7 @@ Hi, I'm Mohammed Yusuf, a student from India, currently studying Information Sci
 
 - 🌱 I’m currently learning about Datascience and Salesforce.
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything
-- 👯 I’m looking to collaborate with other here for projects
+- 👯 I’m looking to collaborate with others here for projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  I enjoy Gaming, Travelling, and obviously Programming!
 
