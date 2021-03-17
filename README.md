@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedYusuf-123
 - 👀 I’m interested in helping others in their projects and resolve the issues faced.
-- 🌱 I’m currently learning Information Science of Engineering.
+- 🌱 I’m currently learning Information Science of Engineering at KLS GOGTE INSTITUTE OF TECHNOLOGY BELGAUM
 - 💞️ I’m looking to collaborate on JAVA, PYTHON projects.
 - 📫 You can contact me at my email address- mohammedyusufmujawar92@gmail.com
 
