@@ -23,6 +23,7 @@ Hi, I'm Mohammed Yusuf, a student from India, currently studying Information Sci
 
 ### Languages and Tools:
 <a >
+<img align="left" alt="JAVA" width="26px' src"https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F3%2F30%2FJava_programming_language_logo.svg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_(programming_language)&tbnid=pmUEtzw5OcqmIM&vet=12ahUKEwiSxu603rfvAhVzx3MBHT6SD_kQMygAegUIARDWAQ..i&docid=ty8cA0ylPEPayM&w=234&h=428&q=JAVA&ved=2ahUKEwiSxu603rfvAhVzx3MBHT6SD_kQMygAegUIARDWAQ" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
