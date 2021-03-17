@@ -21,6 +21,14 @@ Hi, I'm Mohammed Yusuf, a student from India, currently studying Information Sci
 
 <br />
 
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/mohammed-yusuf-mujawar-b658a4209/">
+  <img align="left" alt="Mohammed Yusuf's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br />
+
 ### Languages and Tools:
 <a >
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
