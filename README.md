@@ -6,17 +6,17 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=MohammedYusuf-123
 )
 
-Hi, I'm Mohammed Yusuf, a student from India, currently studying Information Science & Engineering [@KLS Gogte Institute of Technology](https://git.edu/) .!
+Hi, I'm Mohammed Yusuf, a student from India, currently studying Information Science & Engineering [@KLS Gogte Institute of Technology](https://git.edu/) !
 
 
 
 
-## I'm a Student and a coder!! 
+## I'm a Student and a coder!!! 
 
 - 🌱 I’m currently learning about Datascience and Salesforce.
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything
 - 👯 I’m looking to collaborate with other here for projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  I enjoy Gaming, Travelling, and obviously Programming!
 
 <br />
