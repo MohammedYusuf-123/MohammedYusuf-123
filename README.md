@@ -13,7 +13,7 @@ I'm a passionate **Android Developer** with expertise in **Kotlin and Jetpack Co
 ## 💡 Inspirational Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dynamic Quote" />
 </p>
 
 ## 🛠 Tech Stack
