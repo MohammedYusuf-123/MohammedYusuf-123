@@ -21,6 +21,7 @@ I'm a passionate **Android Developer** with expertise in **Kotlin and Jetpack Co
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedYusuf-123&show_icons=true&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=MohammedYusuf-123&theme=radical)
 
 ## 🌍 Connect With Me
 
