@@ -10,7 +10,11 @@ I'm a passionate **Android Developer** with expertise in **Kotlin and Jetpack Co
 - 📫 How to reach me: **[My GitHub](https://github.com/MohammedYusuf-123)**
 - ⚡ Fun fact: **I enjoy solving coding challenges in my free time!**
 
-![Dynamic Greeting](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💡 Inspirational Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
+</p>
 
 ## 🛠 Tech Stack
 
