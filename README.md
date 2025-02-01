@@ -10,6 +10,8 @@ I'm a passionate **Android Developer** with expertise in **Kotlin and Jetpack Co
 - 📫 How to reach me: **[My GitHub](https://github.com/MohammedYusuf-123)**
 - ⚡ Fun fact: **I enjoy solving coding challenges in my free time!**
 
+![Dynamic Greeting](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🛠 Tech Stack
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
@@ -23,6 +25,7 @@ I'm a passionate **Android Developer** with expertise in **Kotlin and Jetpack Co
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedYusuf-123&show_icons=true&theme=radical)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=MohammedYusuf-123&theme=radical)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MohammedYusuf-123&theme=react-dark&bg_color=20232a&hide_border=true)
 
 ## 🌍 Connect With Me
 
@@ -41,6 +44,11 @@ Here are some of my projects:
 - [Lemonade-App](https://github.com/MohammedYusuf-123/Lemonade-App) - A project from Android Basics with Compose tutorial.
 - [Dice-Roller-App](https://github.com/MohammedYusuf-123/Dice-Roller-App) - A simple dice roller app.
 - [Business-Card-App](https://github.com/MohammedYusuf-123/Business-Card-App) - A self-developed business card app.
+
+## 🌟 Fun Facts and Hobbies
+
+- 🌟 **Skills:** Kotlin | Android | Firebase | Git
+- 🚀 **Hobbies:** Coding | Reading | Learning new languages
 
 ---
 
