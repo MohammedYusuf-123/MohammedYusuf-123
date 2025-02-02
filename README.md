@@ -45,7 +45,7 @@ Here are some of my projects:
 ## 🌟 Fun Kotlin Fact
 
 <p align="left">
-  <img src="https://kotlin-fact-api.vercel.app/api/fact" alt="Daily Kotlin Fun Fact" />
+  <img src="https://programming-quotes-api.herokuapp.com/quotes/random/lang/en" alt="Daily Fun Fact About Kotlin" />
 </p>
 
 ---
