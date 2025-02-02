@@ -42,12 +42,6 @@ Here are some of my projects:
 - [Dice-Roller-App](https://github.com/MohammedYusuf-123/Dice-Roller-App) - A simple dice roller app.
 - [Business-Card-App](https://github.com/MohammedYusuf-123/Business-Card-App) - A self-developed business card app.
 
-## 🌟 Fun Kotlin Fact
-
-<p align="left">
-  <img src="https://programming-quotes-api.herokuapp.com/quotes/random/lang/en" alt="Daily Fun Fact About Kotlin" />
-</p>
-
 ---
 
 ⭐️ **Feel free to star my repositories and follow me!**
