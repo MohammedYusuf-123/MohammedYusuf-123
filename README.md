@@ -4,7 +4,7 @@
 
 I'm a passionate **Android Developer** with expertise in **Kotlin and Jetpack Compose**. I love building scalable and efficient solutions, contributing to open-source projects, and learning new technologies.
 
-- 🔭 I’m currently working on **QuickScribe - A Notes App**
+- 🔭 I’m currently working on **QuickQuiz - A Trivia App**
 - 🌱 I’m currently learning **Advanced Kotlin and Jetpack Compose**
 - 💬 Ask me about **Android Development and Kotlin**
 - 📫 How to reach me: **[My GitHub](https://github.com/MohammedYusuf-123)**
