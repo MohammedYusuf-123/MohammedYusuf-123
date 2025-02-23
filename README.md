@@ -32,6 +32,7 @@ I'm a passionate **Android Developer** with expertise in **Kotlin and Jetpack Co
 
 Here are some of my projects:
 
+- [QuickScribe](https://github.com/MohammedYusuf-123/QuickQuiz) - A quick trivia app that lets you test yout knowledge.
 - [QuickScribe](https://github.com/MohammedYusuf-123/QuickScribe) - A notes app to jot down your important notes!!!
 - [FilmHive](https://github.com/MohammedYusuf-123/FilmHive) - A Movie Recommendation App.
 - [TipEase](https://github.com/MohammedYusuf-123/TipEase) - A User Friendly Tip Calculator.
