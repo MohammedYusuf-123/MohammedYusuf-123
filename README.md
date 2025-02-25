@@ -4,7 +4,7 @@
 
 I'm a passionate **Android Developer** with expertise in **Kotlin and Jetpack Compose**. I love building scalable and efficient solutions, contributing to open-source projects, and learning new technologies.
 
-- 🔭 I’m currently working on **QuickQuiz - A Trivia App**
+- 🔭 I’m currently working on **MeteoFlow - A Weather App**
 - 🌱 I’m currently learning **Advanced Kotlin and Jetpack Compose**
 - 💬 Ask me about **Android Development and Kotlin**
 - 📫 How to reach me: **[My GitHub](https://github.com/MohammedYusuf-123)**
@@ -32,6 +32,7 @@ I'm a passionate **Android Developer** with expertise in **Kotlin and Jetpack Co
 
 Here are some of my projects:
 
+- [MeteoFlow](https://github.com/MohammedYusuf-123/MeteoFlow) - A weather app to be weather ready.
 - [QuickQuiz](https://github.com/MohammedYusuf-123/QuickQuiz) - A quick trivia app that lets you test yout knowledge.
 - [QuickScribe](https://github.com/MohammedYusuf-123/QuickScribe) - A notes app to jot down your important notes!!!
 - [FilmHive](https://github.com/MohammedYusuf-123/FilmHive) - A Movie Recommendation App.
